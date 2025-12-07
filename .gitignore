@@ -1,0 +1,23 @@
+# Deno
+.deno/
+deno.lock
+
+# Node modules (when using Node.js compatibility)
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+*.log
+input.txt
+output.txt
